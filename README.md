@@ -1,6 +1,6 @@
 ## MANAS Lab
 
-Welcome to MANAS (Models, Algos, Neuroscience, Affect, ~~P~~sychiatry) Lab. Our research interests are broadly
+Welcome to MANAS (Models, Algorithms, Neuroscience, Affect, pSychiatry) Lab. Our research interests are broadly
 - To use computational models and tools to understand brain function and behavior, particularly in mood and anxiety disorders.
 - To use these insights, to design better experiments and treatments, and thus complete the loop. 
 
