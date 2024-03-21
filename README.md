@@ -17,4 +17,7 @@ I am an Assitant Professor at the School of Arts and Sciences, Azim Premji Unive
 ## Publications
 
 
+## Lab Doc
+
+
 ## Blog
