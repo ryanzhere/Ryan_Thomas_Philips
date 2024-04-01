@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-    height: 20vh;
+    height: 150px;
     background: url(../images/header_full.jpg) #260c40; 
     background-size: cover;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@ nav {
 }
 
 #banner {
-    top: 150px; 
+    top: 175px; 
     background: #f7d0ef;
     
 }
