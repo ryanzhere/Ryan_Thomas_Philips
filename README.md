@@ -6,7 +6,10 @@ Welcome to MANAS (Models, Algorithms, Neuroscience, Affect, pSychiatry) Lab. Our
 
 ---
 
-## Team 
+## Team
+
+<!DOCTYPE HTML>
+<html lang="en">
 <head>
 
 <meta charset="utf-8">
@@ -89,7 +92,7 @@ body {
 <!-- #container --></div>
 
 </body>
-
+</html>
 
 **Ryan Thomas Philips (PI)**
  <img align="left" width="225" height="225" src="./assets/images/c1_ryan_pic_semiformal_v3.jpg" hspace="15"> 
