@@ -31,7 +31,10 @@ motivated behavior. Most experimental tasks, used to probe behavior in anxiogeni
 to aversive cues, usually focus on only one aspect of behavior. For example, previous studies have targeted
 cognitive constructs like working memory (Balderston et al., 2016; Balderston et al., 2017), response inhibition
 (Grillon et al., 2017), or attention. Each of these cognitive processes contributes to decision making, the backbone
-of motivated behavior. I would like to focus on a holistic approach that evaluates many decision-making facets.
+of motivated behavior. I would like to focus on a holistic approach that evaluates many decision-making facets. 
+My approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
+parameters such as learning rate, exploration vs exploitation parameter, inverse temperature and loss
+aversion/gain seeking.
 
 The second related direction is understanding brain networks involved in fear and anxiety, specifically BNST and
 CeA related fMRI circuits. The Bed Nucleus of the Stria Terminalis (BNST or BST) and the Central Amygdala
@@ -68,6 +71,39 @@ level, trial-and-error approach to treatment.
 ---
 
 ## Publications
+
+Gorka, Adam X; **Philips, Ryan T.**; Torrisi, Sam; Manbeck, Adrienne ; Goodwin, Madeline; Ernst, Monique;
+Grillon, Christian “Periaqueductal gray matter and medial prefrontal cortex reflect negative prediction errors
+during differential conditioning” Social Cognitive and Affective Neuroscience [Accepted]
+
+Gorka, Adam X; **Philips, Ryan T.**; Torrisi, Sam; Claudino, Leonardo; Foray, Katherine;
+Ernst, Monique; Grillon, Christian "The posterior cingulate cortex reflects the impact of anxiety
+on drift rates during cognitive processing." Biological Psychiatry: CNNI (2022). https://
+doi.org/10.1016/j.bpsc.2022.03.010.
+
+**Philips, Ryan T.**; Torrisi, Sam; Gorka, Adam X; Grillon, Christian; Ernst, Monique “Dynamic
+time warping identifies functionally distinct fMRI resting state cortical networks specific to VTA
+and SNc: a proof of concept” Cerebral Cortex 32(6), 1142-1151. https://doi.org/10.1093/cercor/bhab273
+
+Ernst, Monique; Gowin, Joshua L.; Gaillard, Claudie; **Philips, Ryan T.**; Grillon, Christian
+“Sketching the Power of Machine Learning to Decrypt a Neural Systems Model of Behavior.” Brain
+sciences 9, no. 3 (2019): 67. https://doi.org/10.3390/brainsci9030067
+
+**Philips, Ryan T.**; Sur, Mriganka; Chakravarthy, V. Srinivasa “The influence of astrocytes on the
+width of orientation hypercolumns in visual cortex: A computational perspective.” PLoS computa-
+tional biology 13.10 (2017): e1005785. https://doi.org/10.1371/journal.pcbi.1005785
+
+**Philips, Ryan T.**; Chakravarthy, V. Srinivasa “A global orientation map in the primary visual
+cortex (V1): Could a self organizing model reveal its hidden bias?” Frontiers in neural circuits 10
+(2017): 109. https://doi.org/10.3389/fncir.2016.00109
+
+**Philips, Ryan T.**; Chhabria, Karishma; Chakravarthy, V. Srinivasa “Vascular Dynamics Aid a
+Coupled Neurovascular Network Learn Sparse Independent Features: A Computational Model.”
+Frontiers in neural circuits 10 (2016): 7. https://doi.org/10.3389/fncir.2016.00007
+
+**Philips, Ryan T.**; Chakravarthy, V. Srinivasa “The mapping of eccentricity and meridional angle
+onto orthogonal axes in the primary visual cortex: An activity-dependent developmental model.”
+Frontiers in computational neuroscience 9 (2015): 3. https://doi.org/10.3389/fncom.2015.00003
 
 ---
 
