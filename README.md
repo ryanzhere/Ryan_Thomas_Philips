@@ -19,12 +19,11 @@ I am an Assitant Professor at the School of Arts and Sciences, Azim Premji Unive
 
 **Key Intellectual Question:**
 
->‘How does anxiety impact decision-making and metacognitive parameters, and how do these
-parameters correlate with physiological and fMRI neural data?’
+>‘How does anxiety impact decision-making and metacognitive parameters, and what is the relationshing between these parameters and physiological and fMRI neural signals?’
 
 **Directions and Approach**
 
-With this goal in mind, there are 2 major directions I would like to further my research. The first direction is to
+With this key question in mind, the lab has 2 major directions. The first direction is to
 build a robust computation-driven understanding of decision making and metacognition in anxiety, specifically,
 by isolating the influence of independent parameters. Fear and anxiety are normal adaptive responses to threat.
 Anxiety is considered pathological when it is either excessive or inappropriate to the context. The influence of
@@ -34,7 +33,7 @@ to aversive cues, usually focus on only one aspect of behavior. For example, pre
 cognitive constructs like working memory (Balderston et al., 2016; Balderston et al., 2017), response inhibition
 (Grillon et al., 2017), or attention. Each of these cognitive processes contributes to decision making, the backbone
 of motivated behavior. I would like to focus on a holistic approach that evaluates many decision-making facets. 
-My approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
+Our approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
 parameters such as learning rate, exploration vs exploitation parameter, inverse temperature and loss
 aversion/gain seeking.
 
@@ -48,7 +47,7 @@ responses (Davis et al., 2010). A similar dissociation between the functional ro
 been proposed in humans based on pharmacological, clinical, and neuroimaging studies. However, recently this
 distinction has been challenged. In humans, a few translational studies have shown no differential activation of
 the CeA and the BNST to discrete and diffused cues. These findings have been bolstered by a meta-analysis that
-did not support the CeA-BNST dissociation (Chavanne & Robinson, 2021). My approach would be to analyze
+did not support the CeA-BNST dissociation (Chavanne & Robinson, 2021). Our approach would be to analyze
 resting state and task-based fMRI data to investigate these circuits, using a dynamic time warping machine-
 learning pipeline I have recently developed (Philips et al., 2021). 
 
