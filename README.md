@@ -110,6 +110,12 @@ Frontiers in computational neuroscience 9 (2015): 3. https://doi.org/10.3389/fnc
 
 ---
 
+## Work with us
+
+If you would like to work with us please fill out this [google form] (https://docs.google.com/forms/d/e/1FAIpQLSfy0j2XXKXB0wx7S0rPCXuuheoUVt7FK_R-Fo3jQZx28a2J5Q/viewform?usp=sf_link)
+
+---
+
 ## Lab Doc
 
 ---
