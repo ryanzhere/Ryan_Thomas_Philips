@@ -15,7 +15,7 @@ section {
 }
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:18px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
@@ -34,7 +34,7 @@ nav {
   ul {
     list-style: none;
     list-style-image:none;
-    font-size: 14px;
+    font-size: 18px;
     line-height:24px;
 
     li {
@@ -45,7 +45,7 @@ nav {
       // right:-12px;
 
       &.tag-h1 {
-        font-size: 1.2em;
+        font-size: 1.5em;
 
         a {
           font-weight: bold;
