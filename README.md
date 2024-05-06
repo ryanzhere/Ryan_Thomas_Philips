@@ -34,7 +34,7 @@ motivated behavior. Most experimental tasks, used to probe behavior in anxiogeni
 to aversive cues, usually focus on only one aspect of behavior. For example, previous studies have targeted
 cognitive constructs like working memory (Balderston et al., 2016; Balderston et al., 2017), response inhibition
 (Grillon et al., 2017), or attention. Each of these cognitive processes contributes to decision making, the backbone
-of motivated behavior. I would like to focus on a holistic approach that evaluates many decision-making facets. 
+of motivated behavior. We would like to focus on a holistic approach that evaluates many decision-making facets. 
 Our approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
 parameters such as learning rate, exploration vs exploitation parameter, inverse temperature and loss
 aversion/gain seeking.
@@ -62,8 +62,7 @@ debilitating psychiatric disorders, with a mental disorder crude disability-adju
 the other hand, there is a deficit in mental health professionals. It is estimated that there are 0.75 Psychiatrists per
 100,000 people, while the desirable number is above 3 (Garg et al. 2019). A computation-driven understanding of
 anxiety disorders and underlying neural circuits would aide efforts toward precision psychiatry, digital health
-initiatives, novel cognitive therapies, and innovative drug treatment strategies. My goal is to advance along this
-path in my future research career as a principal investigator.
+initiatives, novel cognitive therapies, and innovative drug treatment strategies.
 
 The overall end goal of this research is to open new avenues for understanding decision-making perturbations in
 anxiety and to provide a basis for the optimization and development of novel treatment strategies. Specifically,
