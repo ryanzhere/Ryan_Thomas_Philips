@@ -26,16 +26,14 @@ I am an Assitant Professor at the School of Arts and Sciences, Azim Premji Unive
 **Directions and Approach**
 
 With this key question in mind, the lab has 2 major directions. The first direction is to
-build a robust computation-driven understanding of decision making and perseverative thoughts in anxiety; specifically,
+build a robust computation-driven understanding of decision making and perseverative thinking in anxiety; specifically,
 by isolating the influence of independent parameters. Fear and anxiety are normal adaptive responses to threat.
 Anxiety is considered pathological when it is either excessive or inappropriate to the context. The influence of
 anxiety goes beyond the subjective feelings and autonomic reactivity. Indeed, anxiety powerfully affects
 motivated behavior and thought processes. Most experimental tasks, used to probe behavior in anxiogenic environments or in response
 to aversive cues, usually focus on only one aspect of behavior. For example, previous studies have targeted
 cognitive constructs like working memory (Balderston et al., 2016; Balderston et al., 2017), response inhibition
-(Grillon et al., 2017), or attention. Each of these cognitive processes contributes to mental simulations and decision-making, the backbone
-of motivated behavior. We would like to focus on a holistic approach that evaluates many decision-making and internal thought facets. 
-Our approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
+(Grillon et al., 2017), or attention. Each of these cognitive processes contributes to mental simulations and decision-making, the backbone of motivated behavior. We would like to focus on a holistic approach that evaluates many decision-making and internal thought facets. Our approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
 parameters such as learning rate, exploration vs exploitation parameter, inverse temperature and loss
 aversion/gain seeking.
 
