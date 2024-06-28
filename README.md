@@ -21,7 +21,7 @@ I am an Assitant Professor at the School of Arts and Sciences, Azim Premji Unive
 
 **Key Intellectual Question:**
 
->‘What is the relationship between anxiety, decision-making and perseverative thoughts, and what are the corresponding physiological and neural correlates?’
+>‘What is the relationship between anxiety, decision-making and perseverative thinking, and what are the corresponding physiological and neural correlates?’
 
 **Directions and Approach**
 
