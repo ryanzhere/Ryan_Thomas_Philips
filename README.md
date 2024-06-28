@@ -62,9 +62,9 @@ the other hand, there is a deficit in mental health professionals. It is estimat
 anxiety disorders and underlying neural circuits would aide efforts toward precision psychiatry, digital health
 initiatives, novel cognitive therapies, and innovative drug treatment strategies.
 
-The overall end goal of this research is to open new avenues for understanding decision-making perturbations in
+The overall end goal of this research is to open new avenues for understanding decision-making and repetitive negative thinking in
 anxiety and to provide a basis for the optimization and development of novel treatment strategies. Specifically,
-understanding individual differences in the decision-making parameters could give clinicians: 1) the tools to
+understanding individual differences in parameters could give clinicians: 1) the tools to
 better understand anxiety subtypes and provide actionable biomarkers, 2) the ability to move beyond a population
 level, trial-and-error approach to treatment.
 
