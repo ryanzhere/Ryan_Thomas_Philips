@@ -2,7 +2,7 @@
 
 ## MANAS Lab
 
-Welcome to MANAS (Models, Algorithms, Neuroscience, Affect, pSychiatry) Lab. Our research interests are broadly
+Welcome to MANAS (Models, Algorithms, Neuroscience, Affect, pSychiatry) Lab. Our research interests are broadly:
 - To use computational models and tools to understand brain function and behavior, particularly in mood and anxiety disorders.
 - To use these insights, to design better experiments and treatments, and thus complete the loop. 
 
@@ -13,7 +13,7 @@ Welcome to MANAS (Models, Algorithms, Neuroscience, Affect, pSychiatry) Lab. Our
 **Ryan Thomas Philips (PI)**
 
  <img align="left" width="250" height="250" src="./assets/images/c1_ryan_pic_semiformal_v3.jpg" hspace="15"> 
-I am an Assitant Professor at the School of Arts and Sciences, Azim Premji University (APU) and a computational neuroscientist by training. I am interested in designing theoretical-model-inspired experiments that probe brain function, particularly in mood and anxiety disorders. I completed my doctoral studies at the Indian Institute of Technology Madras (IITM), with Prof. V. Srinivasa Chakravarthy as my thesis guide. My postdoctoral training was at the Section on Neurobiology of Fear & Anxiety, at the National Institute of Mental Health (NIMH/NIH) with Dr. Christian Grillon & Dr. Monique Ernst as my mentors. My current projects include: exploration-exploitation under anxiety; functional connectivity of BNST & CEA using resting state 7T fMRI; the role of mental fatigue in threat biases; investigating valence and uncertainty circuits using task based fMRI.
+I am an Assitant Professor at the School of Arts and Sciences, Azim Premji University (APU) and a computational neuroscientist by training. I am interested in designing theoretical-model-inspired experiments that probe brain function, particularly in mood and anxiety disorders. I completed my doctoral studies at the Indian Institute of Technology Madras (IITM), with Prof. V. Srinivasa Chakravarthy as my thesis guide. My postdoctoral training was at the Section on Neurobiology of Fear & Anxiety, at the National Institute of Mental Health (NIMH/NIH) with Dr. Christian Grillon & Dr. Monique Ernst as my mentors. My most recent projects include: exploration-exploitation under anxiety; functional connectivity of Bed Nucleus of the Stria Terminalis (BNST) & Central Amygdala (CeA) using resting state 7T fMRI; the role of mental fatigue in threat biases; investigating valence and uncertainty circuits using task based fMRI.
 
 ---
 
@@ -21,20 +21,20 @@ I am an Assitant Professor at the School of Arts and Sciences, Azim Premji Unive
 
 **Key Intellectual Question:**
 
->‘How does anxiety impact decision-making and metacognitive parameters, and what is the relationshing between these parameters and physiological and fMRI neural signals?’
+>‘What is the relationship between anxiety, decision-making and perseverative thoughts, and what are the corresponding physiological and neural correlates?’
 
 **Directions and Approach**
 
 With this key question in mind, the lab has 2 major directions. The first direction is to
-build a robust computation-driven understanding of decision making and metacognition in anxiety, specifically,
+build a robust computation-driven understanding of decision making and perseverative thoughts in anxiety; specifically,
 by isolating the influence of independent parameters. Fear and anxiety are normal adaptive responses to threat.
 Anxiety is considered pathological when it is either excessive or inappropriate to the context. The influence of
 anxiety goes beyond the subjective feelings and autonomic reactivity. Indeed, anxiety powerfully affects
-motivated behavior. Most experimental tasks, used to probe behavior in anxiogenic environments or in response
+motivated behavior and thought processes. Most experimental tasks, used to probe behavior in anxiogenic environments or in response
 to aversive cues, usually focus on only one aspect of behavior. For example, previous studies have targeted
 cognitive constructs like working memory (Balderston et al., 2016; Balderston et al., 2017), response inhibition
-(Grillon et al., 2017), or attention. Each of these cognitive processes contributes to decision making, the backbone
-of motivated behavior. We would like to focus on a holistic approach that evaluates many decision-making facets. 
+(Grillon et al., 2017), or attention. Each of these cognitive processes contributes to mental simulations and decision-making, the backbone
+of motivated behavior. We would like to focus on a holistic approach that evaluates many decision-making and internal thought facets. 
 Our approach would be to study and model induced anxiety in both healthy volunteers and anxiety patients and examine an array of
 parameters such as learning rate, exploration vs exploitation parameter, inverse temperature and loss
 aversion/gain seeking.
@@ -51,7 +51,7 @@ distinction has been challenged. In humans, a few translational studies have sho
 the CeA and the BNST to discrete and diffused cues. These findings have been bolstered by a meta-analysis that
 did not support the CeA-BNST dissociation (Chavanne & Robinson, 2021). Our approach would be to analyze
 resting state and task-based fMRI data to investigate these circuits, using a dynamic time warping machine-
-learning pipeline I have recently developed (Philips et al., 2021). 
+learning pipeline we have recently developed (Philips et al., 2021). 
 
 **Importance and Consequences**
 
